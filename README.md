@@ -1,1 +1,1 @@
-# Hero-image-resultat
+# skapa-en-hero-image
