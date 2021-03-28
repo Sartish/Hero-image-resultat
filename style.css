@@ -54,6 +54,8 @@ p{
   font-size: 17px;
 }
 
+/* styla din knapp här*/
+/* hint -> kolla in https://www.w3schools.com/css/css3_buttons.asp*/
 .btn {
   display: inline-block; /*förklara inline-block*/
   width: 100px;
@@ -74,6 +76,7 @@ p{
   background-color: Aqua;
 }
 
+/*styla din bild här om du vill*/
 .profile-image {
   position: absolute;
   height: 160px;
